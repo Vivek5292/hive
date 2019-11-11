@@ -131,6 +131,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<addResources>false</addResources>
+					<finalName>Spring-Boot-appl</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
