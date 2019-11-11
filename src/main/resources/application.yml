@@ -32,7 +32,7 @@ project:
   description: boot-example default description
 info:
   build:
-    artifact: ${project.artifactId}
+    artifact: Spring-Boot-appl
     name: ${project.name}
     description: ${project.description}
     version: ${project.version}
