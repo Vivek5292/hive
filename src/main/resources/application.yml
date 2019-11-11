@@ -7,7 +7,9 @@ spring.jmx:
 
 spring.datasource:
     driverClassName: org.h2.Driver
-    url: jdbc:mysql://sdb:3306/test
+    url: jdbc:mysql://database:3306/test
+    usename: hive
+    passpord: abcd
 
 server:
   port: 8090
